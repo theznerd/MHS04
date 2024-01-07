@@ -18,7 +18,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "MHS Class of '04" # Set a different text for the header on the home page
+  # homeTitle = " " # Set a different text for the header on the home page
   # subtitle = "20 Year Reunion"
   copyright = "2024"
   mainSections = ["post","posts"]
@@ -39,8 +39,9 @@ pygmentsCodefencesGuessSyntax = true
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 
 [[Params.bigimg]]
-  src = "img/meadHS.jpg"
-#  desc = "Mead High School"
+  src = "img/panther.png"
+  position = "center"
+  desc = "Img Courtesy of John Schuck"
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"
