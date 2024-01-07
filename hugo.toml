@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'MHS Class of 04'
 theme = 'beautifulhugo'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
