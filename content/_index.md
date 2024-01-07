@@ -1,5 +1,5 @@
 ---
-title: Home
+title: MHS Class of 2004 - 20 Year Reunion
 comments: false
 ---
 {{< columns >}}
