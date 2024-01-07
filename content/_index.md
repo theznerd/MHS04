@@ -11,10 +11,11 @@ We invite you and your spouse/significant other to join us
 for dinner, drinks, and entertainment. As the planning committee
 is still determining some of the details, please help us by
 filling out the Preliminiary RSVP on this page!
+- **Where:** [Silverbell Weddings & Events](https://silverbellweddingsandevents.com/)
+- **Address:** 19010 N Austin Rd, Spokane, WA 99208
 - **Date:** August 24th, 2024
 - **Time:** TBD
 - **Price:** TBD
-- **Where:** [Silverbell Weddings & Events](https://silverbellweddingsandevents.com/)
 
 ### Additional Festivities
 We will have familiy friendly events planned for the weekend.
