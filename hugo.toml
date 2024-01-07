@@ -41,7 +41,7 @@ pygmentsCodefencesGuessSyntax = true
 [[Params.bigimg]]
   src = "img/panther.png"
   position = "center"
-  desc = "Img Courtesy of John Schuck"
+  desc = "Image courtesy of John Schuck"
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"
