@@ -12,7 +12,7 @@ for dinner, drinks, and entertainment. As the planning committee
 is still determining some of the details, please help us by
 filling out the Preliminiary RSVP on this page!
 - **Where:** [Silverbell Weddings & Events](https://silverbellweddingsandevents.com/)
-- **Address:** 19010 N Austin Rd, Spokane, WA 99208
+- **Address:** [19010 N Austin Rd, Spokane, WA 99208](https://maps.app.goo.gl/iwWghxGBM6G5UeCq9)
 - **Date:** August 24th, 2024
 - **Time:** TBD
 - **Price:** TBD
