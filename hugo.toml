@@ -48,6 +48,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Reunion Planning Committee"
+  facebook = "https://www.facebook.com/groups/388995851242691"
 
 [[menu.main]]
     name = "Home"
