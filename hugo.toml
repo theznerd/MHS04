@@ -15,6 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
   homeTitle = "MHS Class of '04" # Set a different text for the header on the home page
   # subtitle = "20 Year Reunion"
+  copyright = "2024"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
