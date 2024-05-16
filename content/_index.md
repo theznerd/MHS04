@@ -8,36 +8,38 @@ We're happy to announce the details of the 20 Year Reunion!
 
 ### Main Reception
 We invite you and your spouse/significant other to join us 
-for dinner, drinks, and entertainment. As the planning committee
-is still determining some of the details, please help us by
-filling out the Preliminiary RSVP on this page!
+for dinner, drinks, and entertainment. We'll have a catered
+meal, beverages (both beer/wine and non-alcoholic options),
+a DJ spinning only the hottest tracks from 2004 (and more),
+a photobooth, a photographer, and all your favorite people!
 - **Where:** [Silverbell Weddings & Events](https://silverbellweddingsandevents.com/)
 - **Address:** [19010 N Austin Rd, Spokane, WA 99208](https://maps.app.goo.gl/iwWghxGBM6G5UeCq9)
 - **Date:** August 24th, 2024
-- **Time:** TBD
-- **Price:** TBD
+- **Time:** 5p - 9p (Pacific)
+- **Price:** $100/person
 
 ### Additional Festivities
 We will have familiy friendly events planned for the weekend.
 Stay tuned for more details!
 
 {{< column >}}
-# Preliminary RSVP
-<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/16c8dda770a53c82ba8e74af7e1a9bca?embedded=1"></div>
+# Ticket Sales
+Ticket sales are being handled via Venmo with accounting done
+in Google Sheets (review available upon request for transparancy). 
+Use the below link or send your payment directly to @Nathan-Ziehnert.
 
-<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
-<script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
+Tickets are $100 per person - if you plan to purchase two tickets, 
+please adjust the payment accordingly. Additionally, if you'd like 
+to sponsor a ticket (or a partial ticket) please make note of that
+in the transaction, or email Nathan directly at 
+[nathan@z-nerd.com](mailto:nathan@z-nerd.com).
 
-<!-- Get notified when the form is submitted, add your own code below: -->
-<script>
-const formkeepEmbed = document.querySelector('#formkeep-embed')
+We want everyone to enjoy the fun! If you feel like the cost 
+is too much for your current situation, please reach out to the 
+planning committee or Nathan directly at 
+[nathan@z-nerd.com](mailto:nathan@z-nerd.com) and we'll find an
+arrangement that works for you!
 
-formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
-  console.log('Submitting form...')
-})
+[![Pay Here](/img/button_pay-here.png)](https://venmo.com/?txn=pay&audience=private&recipients=Nathan-Ziehnert&amount=100&note=MHS04%20Reunion%20Ticket)
 
-formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
-  console.log('Submitted form...')
-})
-</script>
 {{< endcolumns >}}
