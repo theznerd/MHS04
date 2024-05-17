@@ -28,6 +28,9 @@ Ticket sales are being handled via Venmo with accounting done
 in Google Sheets (review available upon request for transparancy). 
 Use the below link or send your payment directly to @Nathan-Ziehnert.
 
+**NOTE: Venmo may ask to validate the last four digits of Nathan's 
+phone number - use 7102.**
+
 Tickets are $100 per person - if you plan to purchase two tickets, 
 please adjust the payment accordingly. Additionally, if you'd like 
 to sponsor a ticket (or a partial ticket) please make note of that
